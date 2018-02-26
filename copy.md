@@ -1,5 +1,6 @@
 
 ```python
+
 import copy
 
 a = [1, [1, 2, 3]]
@@ -57,3 +58,7 @@ whatThe는  [10, 999, 30, 40]
 x는  [10, 20, 30, 40]
    
 ```
+
+참고: https://blueshw.github.io/2016/01/20/2016-01-20-shallow-copy-deep-copy/
+뒤쪽 소스는 추가로 코딩한 내용
+
